@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://alewso.github.io/a/sitemap.html
+Sitemap: https://alewso.github.io/b/sitemap.html
+Sitemap: https://alewso.github.io/c/sitemap.html
+Sitemap: https://alewso.github.io/d/sitemap.html
